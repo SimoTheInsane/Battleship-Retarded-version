@@ -1,4 +1,4 @@
-2#include <iostream>
+#include <iostream>
 #include <stdlib.h>
 #include <cstdlib>
 #include <ctime>
